@@ -26,3 +26,6 @@ setwd("/Users/Marie/Desktop/R_Course")
 
 library("rio")
 
+install.packages('rio')
+
+
